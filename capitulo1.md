@@ -189,10 +189,10 @@ aparece para que pueda escribir otra instrucción.
 
 A diferencia de las expresiones, las *sentencias* son instrucciones que no
 evalúan a ningún valor. Por eso es que no hay un valor mostrado en la siguiente
-línea en el «shell» interactivo después de `spam = 15`. Si está confundida de
-cuáles instrucciones son expresiones y cuáles son sentencias, recuerde que las
-expresiones evalúan a un único valor. Cualquier otro tipo de instrucción es una
-sentencia.
+línea en el «shell» interactivo después de `spam = 15`. Si tiene confusión
+acerca de cuáles instrucciones son expresiones y cuáles son sentencias,
+recuerde que las expresiones evalúan a un único valor. Cualquier otro tipo de
+instrucción es una sentencia.
 
 Las variables almacenan valores, no expresiones. Por ejemplo, considere la
 expresión en las sentencias `spam = 10 + 5` y `spam = 10 + 7 - 2`. Ambas
