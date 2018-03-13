@@ -8,5 +8,6 @@ de [Al Sweigart](https://twitter.com/AlSweigart).
 
  * [Introducción](introduccion.md)
  * [1 El «shell» interactivo](capitulo1.md)
+ * [3 Adivine el número](capitulo3.md)
 
 Hecho con :rainbow: por [JáquerEspeis](https://github.com/jaquerespeis).
