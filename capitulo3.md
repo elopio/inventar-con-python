@@ -47,7 +47,7 @@ Trate de adivinarlo.
 <b>20</b>
 El valor es muy bajo.
 Trate de adivinarlo.
-<b>4</>
+<b>4</b>
 ¡Buen trabajo, Alberto! ¡Adivinó mi número en 3 intentos!
 </pre>
 ***
