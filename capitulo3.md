@@ -647,7 +647,7 @@ resultados booleanos:
 
 ***
 <pre>
->>> <b>0 < 6<b/>
+>>> <b>0 < 6</b>
 True
 >>> <b>6 < 0</b>
 False
