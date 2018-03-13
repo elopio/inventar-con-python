@@ -663,7 +663,7 @@ número `10`:
 
 ***
 <pre>
->>> <b>10 < 10<b/>
+>>> <b>10 < 10</b>
 False
 </pre>
 ***
@@ -676,13 +676,13 @@ Ahora, escriba estas expresiones en el «shell» interactivo:
 
 ***
 <pre>
->>> <b>10 == 10<b/>
+>>> <b>10 == 10</b>
 True
->>> <b>10 == 11<b/>
+>>> <b>10 == 11</b>
 False
->>> <b>11 == 10<b/>
+>>> <b>11 == 10</b>
 False
->>> <b>10 != 10<b/>
+>>> <b>10 != 10</b>
 False
 </pre>
 ***
@@ -697,11 +697,11 @@ comparación:
 
 ***
 <pre>
->>> 'Hola' == 'Hola'
+>>> <b>'Hola' == 'Hola'</b>
 True
->>> 'Adiós' != 'Hola'
+>>> <b>'Adiós' != 'Hola'</b>
 True
->>> 'Hola' == 'HOLA'
+>>> <b>'Hola' == 'HOLA'</b>
 False
 </pre>
 ***
