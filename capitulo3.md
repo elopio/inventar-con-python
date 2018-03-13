@@ -909,7 +909,7 @@ Hay algunos tipos de instrucciones:
   también pueden cambiar el flujo de la ejecución saltando a instrucciones
   dentro de una función.
 
-* **Las funciones `print()` e `input()` muestra texto en la pantalla o lo
+* **Las funciones `print()` e `input()`** muestran texto en la pantalla o lo
   obtienen del teclado. Las instrucciones que tratan con la *entrada* y
   *salida* del programa se llaman *I/O* (por «input/output» en ingles,
   pronunciado ai ou).
